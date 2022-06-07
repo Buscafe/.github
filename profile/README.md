@@ -20,15 +20,48 @@
 </p>
 
  <hr>
-  
+
+<h3 align="left">About the members:</h3>
+<img align='right' src="https://blog.trello.com/hs-fs/hubfs/unnamed-2.gif?width=500&name=unnamed-2.gif" width="500" height="200" />
+<details>     
+      
+ <summary>Gabriel Lima</summary>
+
+- 📝 **About**\
+💡 Project leader \
+👨‍💻 JS and Python \
+📚️ Book lover
+    
+- 🌐 **Contact**     
+<a href="https://github.com/Gabriel-limadev" target="blank"><img align="center" src="https://github.com/Gabriel-limadev/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Gabriel-limadev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabriellimadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriellimadev/" height="30" width="40" /></a>
+<a href="https://instagram.com/gabriel_vituu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_vituu" height="30" width="40" /></a>
+
+</details>
+
+<details>     
+ <summary>Igor Costa </summary>
+      ola
+</details>
+<details>     
+      
+ <summary>Kaike Silva</summary>
+      ola
+</details>
+<details>     
+      
+ <summary>Luiz Fernando</summary>
+      ola
+</details>
+
+<details>
+ <summary>Marlon Raul</summary>
+      ola
+</details>
+
+<hr>
   
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://www.instagram.com/projeto_buscafe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Projeto BuscaFe" height="30" width="40" /></a>
+      <a href="https://www.instagram.com/projeto_buscafe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Projeto BuscaFe" height="30" width="40" /></a>
 </p>
-
-<div align="center">
-
- ![Snake animation](https://github.com/Buscafe/Buscafe/blob/output/github-contribution-grid-snake.svg)
-     
-</div>
