@@ -41,7 +41,10 @@
 
 <details>     
  <summary>Igor Costa </summary>
-      ola
+- 📝 **About**\
+💡 FullStack do BuscaFé\
+👨‍💻 React e NodeJs\
+📚 Fornecedor das pizzas.
 </details>
 <details>     
       
