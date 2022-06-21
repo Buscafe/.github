@@ -23,43 +23,72 @@
 
 <h3 align="left">About the members:</h3>
 <img align='right' src="https://blog.trello.com/hs-fs/hubfs/unnamed-2.gif?width=500&name=unnamed-2.gif" width="500" height="200" />
+
 <details>     
-      
  <summary>Gabriel Lima</summary>
 
 - 📝 **About**\
 💡 Project leader \
-👨‍💻 JS and Python \
+👨‍💻 FullStack do BuscaFé \
 📚️ Book lover
     
 - 🌐 **Contact**     
 <a href="https://github.com/Gabriel-limadev" target="blank"><img align="center" src="https://github.com/Gabriel-limadev/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Gabriel-limadev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gabriellimadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriellimadev/" height="30" width="40" /></a>
 <a href="https://instagram.com/gabriel_vituu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_vituu" height="30" width="40" /></a>
-
 </details>
 
 <details>     
- <summary>Igor Costa </summary>
+ <summary>Igor Costa</summary>
+
 - 📝 **About**\
-💡 FullStack do BuscaFé\
-👨‍💻 React e NodeJs\
-📚 Fornecedor das pizzas.
-</details>
-<details>     
+💡 FullStack do BuscaFé \
+👨‍💻 React e NodeJs \
+🍕 Fornecedor das pizzas.
       
+- 🌐 **Contact**     
+<a href="https://github.com/Igorcbraz" target="blank"><img align="center" src="https://github.com/Gabriel-limadev/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Igorcbraz" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/igorcbraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igorcbraz/" height="30" width="40" /></a>
+<a href="https://instagram.com/gabriel_vituu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_vituu" height="30" width="40" /></a>
+</details>
+
+<details>     
  <summary>Kaike Rocha</summary>
-      ola
-</details>
-<details>     
       
- <summary>Luiz Fernando</summary>
-      ola
+- 📝 **About**\
+💡 FullStack do BuscaFé \
+👨‍💻 React e NodeJs\
+🃏 Jogador de Truco
+      
+- 🌐 **Contact**     
+<a href="https://github.com/Kaikeeksr" target="blank"><img align="center" src="https://github.com/Gabriel-limadev/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Kaikeeksr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaikerocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaikerocha/" height="30" width="40" /></a>
+</details>
+
+<details>     
+ <summary>Luis Fernando</summary>
+      
+- 📝 **About**\
+💡 FullStack do BuscaFé \
+👨‍💻 React e NodeJs \
+🎮 Apaixonado pela Xbox.
+      
+<a href="https://github.com/LuisFernandoPBPereira" target="blank"><img align="center" src="https://github.com/Gabriel-limadev/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="LuisFernandoPBPereir" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luis-fernando-pedro-bom-pereira-1b4821210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-fernando/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/luis.fernandop.b.pereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luis.fernandop.b.pereira" height="30" width="40" /></a>
 </details>
 
 <details>
  <summary>Marlon Raul</summary>
-      ola
+      
+- 📝 **About**\
+💡 Database do BuscaFé \
+👨‍💻 MySql e Mongo \
+💻 Jogador de LOL.
+     
+<a href="https://github.com/Marlon3s" target="blank"><img align="center" src="https://github.com/Gabriel-limadev/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Marlon3s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marlom-romero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marlom-romero/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/marlon_san_romero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marlon_san_romero" height="30" width="40" /></a>
 </details>
 
 <hr>
